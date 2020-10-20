@@ -16,3 +16,5 @@
 ## flask-intro/HTML From data/templates/[form.html](https://www.geeksforgeeks.org/retrieving-html-from-data-using-flask/)
 
 [![form.html](https://raw.githubusercontent.com/imvickykumar999/flask-intro/main/HTML%20From%20data/screenshot.png)](https://github.com/imvickykumar999/flask-intro/blob/main/HTML%20From%20data/form.py)
+
+C:\Users\Vicky\Desktop\python\My APPs\flask
