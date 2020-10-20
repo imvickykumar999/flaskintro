@@ -10,6 +10,6 @@
 
 ### Run `python hello.py` and open [this link](http://localhost:5000/hello/Vicky%20Kumar)
 
-## [flask-intro/HTML From data/templates/form.html](https://www.geeksforgeeks.org/retrieving-html-from-data-using-flask/)
+## flask-intro/HTML From data/templates/[form.html](https://www.geeksforgeeks.org/retrieving-html-from-data-using-flask/)
 
 [![form.html](https://raw.githubusercontent.com/imvickykumar999/flask-intro/main/HTML%20From%20data/screenshot.png)](https://github.com/imvickykumar999/flask-intro/blob/main/HTML%20From%20data/form.py)
