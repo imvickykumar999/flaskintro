@@ -9,3 +9,5 @@
     Flask is based on WSGI(Web Server Gateway Interface) toolkit and Jinja2 template engine.
 
 ### Run `python hello.py` and open [this link](http://localhost:5000/hello/Vicky%20Kumar)
+
+[![form.html](https://raw.githubusercontent.com/imvickykumar999/flask-intro/main/HTML%20From%20data/screenshot.png)](https://github.com/imvickykumar999/flask-intro/blob/main/HTML%20From%20data/form.py)
