@@ -1,0 +1,13 @@
+.firstDiv{
+    color: blue;
+}
+
+/* class */
+.secondDiv{
+  background-color: gray;
+}
+
+/* id */
+#singleout{
+  color: red;
+}

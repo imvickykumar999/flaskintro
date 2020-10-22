@@ -1,0 +1,13 @@
+h1{
+  font-family: monospace;
+  text-align: center;
+  color: red;
+}
+
+p{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
