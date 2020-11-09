@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Vix Flappy Bird",
+  "description": "Quick launch",
+  "version": "1.0.1",
+  "icons": { "128": "bird.png" },
+  "browser_action": {
+    "default_icon": "bird.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
